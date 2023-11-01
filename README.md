@@ -1,1 +1,1 @@
-# html-portfolio Practice html skills
+# html-portfolio in order to Practice HTML skills
